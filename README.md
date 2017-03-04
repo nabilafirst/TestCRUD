@@ -3,12 +3,15 @@
 ### Pemrograman Berorientasi Objek - Test CRUD
  
 ##<li> Screenshot </li>
-![1](https://cloud.githubusercontent.com/assets/22027035/23455146/2e6e5bac-fea1-11e6-8bd6-12abf00f66d6.JPG)
-![3](https://cloud.githubusercontent.com/assets/22027035/23455143/2e64d7f8-fea1-11e6-9f68-70003182a84b.JPG)
-![4](https://cloud.githubusercontent.com/assets/22027035/23455145/2e6a9f8a-fea1-11e6-8e19-1e7f33272c29.JPG)
-![5](https://cloud.githubusercontent.com/assets/22027035/23455148/2e73d226-fea1-11e6-961f-b3bea3e8f4e2.JPG)
-![6](https://cloud.githubusercontent.com/assets/22027035/23455144/2e69cc90-fea1-11e6-9498-b88fe9f31db5.JPG)
-![2](https://cloud.githubusercontent.com/assets/22027035/23455147/2e702590-fea1-11e6-8ea7-f1f4cbc6e123.JPG)
+![1](https://cloud.githubusercontent.com/assets/22027035/23575734/be774662-00c4-11e7-9162-d0380819163d.JPG)
+![2](https://cloud.githubusercontent.com/assets/22027035/23575735/be7bcd68-00c4-11e7-8931-d805896417eb.JPG)
+![3](https://cloud.githubusercontent.com/assets/22027035/23575728/be49172e-00c4-11e7-8fb8-38d0196523b8.JPG)
+![4](https://cloud.githubusercontent.com/assets/22027035/23575729/be4daf64-00c4-11e7-976e-987dc721cd9a.JPG)
+![5](https://cloud.githubusercontent.com/assets/22027035/23575731/be4e285e-00c4-11e7-9b68-b18ca37fcb95.JPG)
+![6](https://cloud.githubusercontent.com/assets/22027035/23575730/be4dafbe-00c4-11e7-985c-8991a386ec84.JPG)
+![7](https://cloud.githubusercontent.com/assets/22027035/23575732/be4ee97e-00c4-11e7-8b7b-29d5e28c1e7e.JPG)
+![8](https://cloud.githubusercontent.com/assets/22027035/23575733/be4f47d4-00c4-11e7-915c-653bf67af43c.JPG)
+
 
 
 ##<li> Identitas : </li>
